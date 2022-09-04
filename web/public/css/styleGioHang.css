@@ -1,0 +1,117 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-image: url("../anh1/bg_sec1.jpg");
+    background-size: cover;
+}
+.menu {
+    text-align: center;
+    height: 67px;
+    background-color: #CC0000;
+    margin-bottom: 20px;
+}
+.menu li {
+    display: inline-block;
+    padding: 20px 3px;
+}
+.menu img {
+    margin: 15px;
+}
+.input-group {
+    margin: 15px;
+}
+.btn {
+    background-color: #e10404;
+    border-radius: 15px;
+    color: white;
+}
+.btn:hover {
+    color: #fff;
+    background-color: #bb2d3b;
+    border-color: #b02a37;
+}
+.col-2{
+    width: 13%;
+}
+
+.container {
+    margin-top: 0px;
+    /* margin-bottom: 100px; */
+}
+
+.footer {
+    margin-top: 10px;
+    font-size: 15px;
+    padding-top: 20px;
+    height: 150px;
+    background-color: #e8e8e0;
+}
+
+.col-6 img {
+    border-radius: 20px;
+}
+.aaa{
+    background-color: #fff;
+    border-radius: 15px; 
+    vertical-align: middle!important;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+#backtop {
+    width: 50px;
+    height: 50px;
+    background: #CC0000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 30px;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.slice {
+    --bs-gutter-x: 0px;
+}
+
+.layer {
+    padding: 10px 10px;
+}
+
+.product-info {
+    border-radius: 15px;
+    background-color: #fff;
+    width: 1500px;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+}
+
+.carousel-item {
+    border-radius: 20px;
+}
+.abc{
+    --bs-gutter-x:0rem;
+}
+.col-1{
+    width: 3%;
+}
+.col{
+    text-align: left;
+}
+.shadow-lg{
+  box-shadow: 0 3rem 3rem rgba(0,0,0,.175)!important;  
+}
+.abc{
+    width: 99%;
+}
+.tong{
+    size: 20px;
+}

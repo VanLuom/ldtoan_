@@ -1,0 +1,106 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url("../anh1/bg_sec1.jpg");
+    background-size: cover;
+}
+
+.menu {
+    text-align: center;
+    height: 67px;
+    background-color: #CC0000;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 20px 3px;
+    /* text-transform: uppercase; */
+}
+
+.menu img {
+    margin: 15px;
+}
+
+.input-group {
+    margin: 15px;
+}
+
+.btn {
+    background-color: #e10404;
+    border-radius: 15px;
+    color: white;
+}
+.btn:hover {
+    color: #fff;
+    background-color: #bb2d3b;
+    border-color: #b02a37;
+}
+.container {
+/*    margin-bottom: 100px;*/
+}
+.col-2{
+    width: 13%;
+}
+.footer {
+    margin-top: 10px;
+    font-size: 15px;
+    padding-top: 20px;
+    height: 150px;
+    background-color: #e8e8e0;
+}
+.col-3 {
+    border-radius: 10px;
+    background-color: #fff;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    width: 23%;
+    margin-left: 21px;
+}
+.col-3 {
+    transform: scale(1.0);
+}
+.col-3:hover {
+    transform: scale(1.1);
+}
+#backtop {
+    width: 50px;
+    height: 50px;
+    background: #CC0000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 30px;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    cursor: pointer;
+}
+.carousel-inner {
+    border-radius: 20px;
+}
+.slice{
+    margin-top: 20px;
+}
+.col-12{
+    margin-top: 20px;
+}
+.abc{
+    --bs-gutter-x:0rem;
+}
+.col-1{
+    width: 3%;
+}
+.col{
+    text-align: left;
+}
+.abc{
+    width: 99%;
+}
